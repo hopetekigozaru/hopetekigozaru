@@ -1,4 +1,4 @@
-## Welcome! HOPE的観測ページへ :t-rex::boom: 
+## Welcome! HOPE的観測ページへ :tea: 
 
 ## :gear:  Stack
 
