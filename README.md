@@ -3,9 +3,9 @@
 ## :gear:  Stack
 
 ### :computer: Language/FrameWork 
-[![Language/FrameWork ](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,next,php,laravel&perline=6)](https://skillicons.dev)
+[![Language/FrameWork ](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,nextjs,nestjs,php,laravel&perline=6)](https://skillicons.dev)
 ### :books: Libraries 
-[![Libraries](https://skillicons.dev/icons?i=redux,threejs,tailwind,mui&perline=6)](https://skillicons.dev)
+[![Libraries](https://skillicons.dev/icons?i=redux,threejs,tailwind,mui,prisma&perline=6)](https://skillicons.dev)
 
 
 ### :bar_chart: OS / Database / Environment 
